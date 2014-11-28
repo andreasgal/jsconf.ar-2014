@@ -1,30 +1,16 @@
 {
-  "name": "shower",
-  "description": "Shower HTML presentation engine",
-  "version": "1.0.15",
+  "name": "jsconf.ar-2014",
+  "description": "Andreas Gal 2014 JSConf.AR talk",
+  "version": "1.0.0",
   "author": {
-    "name": "Vadim Makeev",
-    "url": "http://pepelsbey.com/"
+    "name": "Andreas Gal",
+    "url": "http://andreasgal.com/"
   },
-  "homepage": "https://github.com/shower/shower",
+  "homepage": "https://github.com/andreasgal/jsconf.ar-2014",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shower/shower.git"
+    "url": "https://github.com/andreasgal/jsconf.ar-2014.git"
   },
-  "bugs": {
-    "url": "http://github.com/shower/shower/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/shower/shower/wiki/MIT-License"
-    }
-  ],
-  "keywords": [
-    "shower",
-    "presentation",
-    "template"
-  ],
   "dependencies": {
     "shower-bright": "^1.0.11",
     "shower-core": "^1.0.7",
